@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002)](https://github.com/anuraghazra/github-readme-stats)
+  <a href = "https://github.com/anuraghazra/github-readme-stats">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002">
 </p>
 <p align="center">
     <img src="https://profile-counter.glitch.me/jdelvalle2002/count.svg" />
