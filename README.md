@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, soy Javier 👋
 
 <!--
 **jdelvalle2002/jdelvalle2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭I’m currently learning Python, some HTML and trying to start with a bit of C++.
+📚I'm studying Engineering at Universidad Católica de Chile. 
+
 ## Other stuff
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
