@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Other stuff
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdelvalle2002&show_icons=true&hide=[%22contribs%22]" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdelvalle2002&show_icons=true&theme=cobalt&hide=[%22contribs%22]" />
 </a>
 </p>
 <p align="center">
