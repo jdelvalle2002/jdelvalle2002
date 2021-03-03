@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=jdelvalle2002&show_icons=true&theme=cobalt&hide=[%22contribs%22]" />
 </a>
 </p>
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <p align="center">
     <img src="https://profile-counter.glitch.me/jdelvalle2002/count.svg" />
 </p>
