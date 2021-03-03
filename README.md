@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 </p>
 📚I'm studying <a target = "_blank" href = "https://www.ing.uc.cl/" >Engineering at Universidad Católica de Chile</a>. 
 
-## Other stuff
+## Cosas bacanes de stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jdelvalle2002&show_icons=true&theme=cobalt&hide=[%22contribs%22]" />
 </a>
+</p>
+
+<p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p align="center">
     <img src="https://profile-counter.glitch.me/jdelvalle2002/count.svg" />
