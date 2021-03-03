@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdelvalle2002)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
     <img src="https://profile-counter.glitch.me/jdelvalle2002/count.svg" />
 </p>
