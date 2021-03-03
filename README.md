@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Other stuff
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdelvalle2002&show_icons=true&hide=[%22contribs%22]" />
+</a>
+</p>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/jdelvalle2002/count.svg" />
+</p>
