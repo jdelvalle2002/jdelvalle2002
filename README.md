@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <p>
 🔭I’m currently learning Python, some HTML and trying to start with a bit of C++. <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
+
+<p>
+  This info is quite obsolete... Someday I will have the time to update it.
+</p>
 📚I'm studying <a target = "_blank" href = "https://www.ing.uc.cl/" >Engineering at Universidad Católica de Chile</a>. 
 
 ## Cosas bacanes de stats
