@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-🔭I’m currently learning Python, some HTML and trying to start with a bit of C++. <code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+🔭Python is my main language, specially for Data Science projects. I like Julia, learning and trying to do more stuff with it. I'm learning some HTML and  C++.<code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
-
 <p>
   This info is quite obsolete... Someday I will have the time to update it.
 </p>
