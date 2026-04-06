@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <p>
   This info is quite obsolete... Someday I will have the time to update it.
 </p>
+<p>
+  Personal projects I want to do in the near future (TODO for when I have spare time): chess engine, Rubik solver, Highscore AI player (old project remake).
+</p>
 📚I'm studying <a target = "_blank" href = "https://www.ing.uc.cl/" >Engineering at Universidad Católica de Chile</a>. 
 
 ## Cosas bacanes de stats
