@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p>
   Personal projects I want to do in the near future (TODO for when I have spare time): sudoku solvers (C++), chess engine, Rubik solver, Highscore AI player (old project remake), metro TSP with GTFS, something with quant finance techniques.
 </p>
-📚I'm studying <a target = "_blank" href = "https://www.ing.uc.cl/" >Engineering at Universidad Católica de Chile</a>. 
+📚I've just graduated from <a target = "_blank" href = "https://www.ing.uc.cl/" >Engineering at Universidad Católica de Chile</a>. 
 
 <!--
 ## Cosas bacanes de stats
